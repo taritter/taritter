@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C, Swift, and Mandarin Chinese
 - 📫 How to reach me: tessritter15@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been to 26 countries, and have met Queen Elizabeth
+- ⚡ Fun fact: I've been to 26 countries and have met Queen Elizabeth
