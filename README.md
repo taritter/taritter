@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+My name is Therese (Tess) Ritter, I'm in my fourth year at the University of Vermont studying Computer Science with minors in Pyschology and Math
 
 <!--
 **taritter/taritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on RetroGame for a mobile app development class
+- 🌱 I’m currently learning C, Swift, and Mandarin Chinese
+- 📫 How to reach me: tessritter15@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've been to 26 countries, and have met Queen Elizabeth
