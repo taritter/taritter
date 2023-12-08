@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on RetroGame for a mobile app development class
-- 🌱 I’m currently learning C, Swift, and Mandarin Chinese
+- 🌱 I’m currently learning R, C, Swift, and Mandarin Chinese
 - 📫 How to reach me: tessritter15@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been to 26 countries and have met Queen Elizabeth
