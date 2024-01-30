@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on RetroGame for a mobile app development class
+- 🔭 I’m currently working on Evolutionary Robotics, Cybersecurity, Construction Compiler, and Software Engineering projects for class
 - 🌱 I’m currently learning Linux, Swift, and Mandarin Chinese
 - 📫 How to reach me: tessritter15@gmail.com
 - 😄 Pronouns: she/her
